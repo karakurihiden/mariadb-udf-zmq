@@ -95,3 +95,7 @@ mariadb> SELECT zmq_stream('tcp://localhost:5555', 'Message') AS zmq;
 SELECT zmq_stream('tcp://127.0.0.1:80', "GET / HTTP/1.1\r\nHost:localhost\r\n\r\n");
 SELECT zmq_stream('tcp://127.0.0.1:80', "POST / HTTP/1.1\r\nHost:localhost\r\nContent-Type:application/x-www-form-urlencoded\r\nContent-Length:9\r\n\r\ntest=hoge\r\n") as zmq;
 -->
+
+## Related
+
+* [Introductory article(JA)](http://hiden.samurai-factory.jp/mysql/udf_zmq/)

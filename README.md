@@ -1,5 +1,13 @@
 # ZeroMQ UDF for MariaDB/MySQL
 
+## RPM Package
+
+[Related article](http://hiden.samurai-factory.jp/mysql/udf_zmq/download)
+
+* CentOS 6: [mysql-udf-zmq-0.1.0-0.el6.sf.x86_64.rpm](http://hiden.samurai-factory.jp/download/rpm/el6/mysql-udf-zmq-0.1.0-0.el6.sf.x86_64.rpm)
+* Fedora 20: [mariadb-udf-zmq-0.1.0-0.fc20.sf.x86_64.rpm](http://hiden.samurai-factory.jp/download/rpm/fc20/mariadb-udf-zmq-0.1.0-0.fc20.sf.x86_64.rpm)
+
+
 ## Build
 
 required.
